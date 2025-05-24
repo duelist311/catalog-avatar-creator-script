@@ -1,0 +1,1 @@
+# catalog-avatar-creator-script
